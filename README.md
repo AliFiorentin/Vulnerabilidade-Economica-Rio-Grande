@@ -84,7 +84,7 @@ Este projeto segue as licenças e direitos conforme definidos pela instituição
 
 ## Autores
 
-**Alisson Tallys Geraldo Fiorentin** 
-*Mestrando em Economia Aplicada*
-*Universidade Federal do Rio Grande*
+**Alisson Tallys Geraldo Fiorentin**\
+*Mestrando em Economia Aplicada*\
+*Universidade Federal do Rio Grande*\
 Contato: [alisson.fiorentin\@gmail.com](mailto:alisson.fiorentin@gmail.com)
